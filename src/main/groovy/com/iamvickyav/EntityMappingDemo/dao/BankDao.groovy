@@ -1,4 +1,4 @@
-package com.iamvickyav.EntityMappingDemo
+package com.iamvickyav.EntityMappingDemo.dao
 
 import com.iamvickyav.EntityMappingDemo.entity.BankDetails
 import org.springframework.data.jpa.repository.JpaRepository

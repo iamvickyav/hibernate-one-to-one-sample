@@ -1,7 +1,6 @@
 package com.iamvickyav.EntityMappingDemo.entity
 
 import com.fasterxml.jackson.annotation.JsonBackReference
-import com.iamvickyav.EntityMappingDemo.StudentDao
 
 import javax.persistence.CascadeType
 import javax.persistence.Column
